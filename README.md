@@ -1,6 +1,6 @@
 # DesafioQA
 
-#Aplicação: Marvelopédia
+Aplicação: Marvelopédia
 
 Com o Objetivo de:
 
